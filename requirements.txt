@@ -20,7 +20,7 @@ selenium==4.1.0
 webdriver-manager==3.5.2
 
 # Additional utilities
-certifi==2021.10.8
+certifi==2025.4.26
 urllib3==1.26.7
 
 # Testing and development tools (required for CI/CD)
