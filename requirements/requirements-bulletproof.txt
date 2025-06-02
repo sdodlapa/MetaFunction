@@ -8,7 +8,7 @@ flask==3.0.0
 requests==2.31.0
 
 # Testing framework - reliable version
-pytest==7.4.0
+pytest==8.3.5
 
 # Code linting - stable version
 flake8==6.0.0
